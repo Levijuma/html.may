@@ -1,0 +1,34 @@
+.fruits{
+    border: 2px solid red;
+    text-align: center;
+    padding: 15px;
+    color: fuchsia;
+}
+.car{
+    border: 2px solid red;
+    text-align: center;
+    padding: 15px;
+    color: cornflowerblue;
+
+}
+#school{
+    border: 2px solid red;
+    text-align: center;
+    padding: 15px;
+    color: chartreuse;
+}
+.my form{
+    border: 2px solid red;
+    text-align: left;
+    padding: 15px;
+    color: cornflowerblue;
+    background-image: url("image7.jpeg");
+}
+h2{
+    border: 2px solid red;
+    text-align: center;
+    padding: 15px;
+    color: cornflowerblue;
+    background-color: lightpink;
+
+}
